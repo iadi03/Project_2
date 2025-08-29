@@ -10,7 +10,9 @@ This project focuses on analyzing and predicting agricultural crop production tr
   - Top 10 crops by total production
   - Year-wise production trends
 
-2. 📌 Project Overview
+2. Quality Prediction in a Mining Process.
+
+📌 Project Overview
 This project implements a machine learning–based predictive analytics system for a real-world mining flotation plant. The primary objective is to forecast the % Silica Concentrate in iron ore to enable proactive decision-making, reduce impurities, and optimize plant operations. Using industrial process data sampled at both minute and hourly intervals, the system provides accurate short-term and multi-hour-ahead forecasts.
 
 🎯 Objectives
